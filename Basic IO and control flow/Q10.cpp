@@ -13,7 +13,7 @@ int main() {
         num /= 10;
     }
     if(num=reversed){
-        cout<<"This is a palindrom";
+        cout<<"This is a palindrome";
     }
     else{
         cout<<"Not a palindrome";

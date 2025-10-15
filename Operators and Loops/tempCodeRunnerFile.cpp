@@ -1,0 +1,4 @@
+else {
+            isPrime=true;
+            
+        }
