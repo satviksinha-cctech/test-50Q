@@ -1,0 +1,67 @@
+Questions
+Test questions:
+Basic I/O and Control Flow
+Read two integers and print their sum.
+Read three numbers and print the largest.
+Check whether a number is even or odd.
+Determine if a year is a leap year.
+Print the multiplication table of a given number.
+Calculate the factorial of a number using a loop.
+Print the first N Fibonacci numbers.
+Reverse a given number.
+Count the digits in a number.
+Check if a number is a palindrome.
+
+🔢 Operators and Loops
+Compute the sum of digits of a number.
+Find the greatest common divisor (GCD) of two numbers.
+Find the least common multiple (LCM) of two numbers.
+Print all prime numbers between 1 and N.
+Check if a given number is prime.
+Print the ASCII value of a given character.
+Convert Celsius temperature to Fahrenheit.
+Compute the power of a number without using built-in functions.
+Display all factors of a number.
+Compute the sum of all even numbers from 1 to N.
+
+📚 Arrays and Strings
+Find the largest element in an array.
+Compute the average of elements in an array.
+Reverse an array in place.
+Count the number of even and odd elements in an array.
+Search for an element in an array using linear search.
+Sort an array using the bubble sort algorithm.
+Merge two arrays into a single sorted array.
+Find the frequency of each element in an array.
+Remove duplicate elements from an array.
+Find the second largest number in an array.
+
+🧠 Functions and Recursion
+Write a recursive function to find the factorial of a number.
+Write a recursive function to find the nth Fibonacci number.
+Write a recursive function to calculate the sum of digits of a number.
+Write a recursive function to compute power(a, b).
+Write a function to check if a string is a palindrome.
+
+🧱 Pointers and References
+Swap two numbers using pointers.
+Find the length of a string using pointers.
+Copy one string into another using pointers.
+Access array elements using pointer arithmetic.
+Count vowels in a string using pointers.
+
+🧭 Structures and OOP Basics
+Define a structure Student with name, roll number, and marks, and print the details.
+Create a class Rectangle with functions to calculate area and perimeter.
+Create a class Circle that takes radius and returns area.
+Implement a class Calculator with functions for addition, subtraction, multiplication, and division.
+Create a class BankAccount with deposit and withdraw functions.
+
+🧮 Constructors, Inheritance, Polymorphism
+Create a class Complex with a constructor and function to add two complex numbers.
+Implement a base class Shape and derived classes Circle and Rectangle to compute areas.
+Demonstrate function overloading by creating multiple add() functions.
+Demonstrate operator overloading for + in a Complex class.
+Implement a class with both parameterized and default constructors to initialize values.
+
+How many times can recursion be done?
